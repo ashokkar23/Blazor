@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.App", "BethanysPieShopHRM.App\BethanysPieShopHRM.App.csproj", "{1AA121C7-C76A-4172-A912-BA9B114D7CDB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopHRM.Shared", "..\BethanyPieShopHRMApp\BethanysPieShopHRM.Shared\BethanysPieShopHRM.Shared.csproj", "{5E6ADE69-205B-4655-9DE8-B7833D758DBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AA121C7-C76A-4172-A912-BA9B114D7CDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AA121C7-C76A-4172-A912-BA9B114D7CDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AA121C7-C76A-4172-A912-BA9B114D7CDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AA121C7-C76A-4172-A912-BA9B114D7CDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6ADE69-205B-4655-9DE8-B7833D758DBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6ADE69-205B-4655-9DE8-B7833D758DBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6ADE69-205B-4655-9DE8-B7833D758DBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6ADE69-205B-4655-9DE8-B7833D758DBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B831C865-116E-4D9B-B753-D64B663B82D3}
+	EndGlobalSection
+EndGlobal
